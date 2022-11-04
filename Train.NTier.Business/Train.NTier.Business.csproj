@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Train.NTier.DataAccsess\Train.NTier.DataAccsess.csproj" />
+    <ProjectReference Include="..\Train.NTier.DTOs\Train.NTier.DTOs.csproj" />
+  </ItemGroup>
+
+</Project>

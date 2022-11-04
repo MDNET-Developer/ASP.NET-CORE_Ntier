@@ -1,0 +1,12 @@
+D:\MyProjects\NEW\Train.NTier\Train.NTier.Entity\bin\Debug\net5.0\Train.NTier.Entity.deps.json
+D:\MyProjects\NEW\Train.NTier\Train.NTier.Entity\bin\Debug\net5.0\Train.NTier.Entity.dll
+D:\MyProjects\NEW\Train.NTier\Train.NTier.Entity\bin\Debug\net5.0\Train.NTier.Entity.pdb
+D:\MyProjects\NEW\Train.NTier\Train.NTier.Entity\obj\Debug\net5.0\Train.NTier.Entity.csproj.AssemblyReference.cache
+D:\MyProjects\NEW\Train.NTier\Train.NTier.Entity\obj\Debug\net5.0\Train.NTier.Entity.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyProjects\NEW\Train.NTier\Train.NTier.Entity\obj\Debug\net5.0\Train.NTier.Entity.AssemblyInfoInputs.cache
+D:\MyProjects\NEW\Train.NTier\Train.NTier.Entity\obj\Debug\net5.0\Train.NTier.Entity.AssemblyInfo.cs
+D:\MyProjects\NEW\Train.NTier\Train.NTier.Entity\obj\Debug\net5.0\Train.NTier.Entity.csproj.CoreCompileInputs.cache
+D:\MyProjects\NEW\Train.NTier\Train.NTier.Entity\obj\Debug\net5.0\Train.NTier.Entity.dll
+D:\MyProjects\NEW\Train.NTier\Train.NTier.Entity\obj\Debug\net5.0\refint\Train.NTier.Entity.dll
+D:\MyProjects\NEW\Train.NTier\Train.NTier.Entity\obj\Debug\net5.0\Train.NTier.Entity.pdb
+D:\MyProjects\NEW\Train.NTier\Train.NTier.Entity\obj\Debug\net5.0\ref\Train.NTier.Entity.dll
