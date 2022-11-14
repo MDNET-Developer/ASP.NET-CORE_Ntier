@@ -14,7 +14,6 @@ namespace Train.NTier.DataAccsess.Confugiration
         public void Configure(EntityTypeBuilder<Work> builder)
         {
             builder.HasKey(i => i.Id);
-            
             builder.Property(x => x.Description).HasMaxLength(350);
             builder.Property(y => y.Description).IsRequired(true);
             builder.Property(o => o.IsCompleted).IsRequired(true);
