@@ -1,3 +1,8 @@
+D:\MyProjects\NEW\Train.NTier\Train.NTier.Business\obj\Debug\net5.0\Train.NTier.Business.csproj.AssemblyReference.cache
+D:\MyProjects\NEW\Train.NTier\Train.NTier.Business\obj\Debug\net5.0\Train.NTier.Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyProjects\NEW\Train.NTier\Train.NTier.Business\obj\Debug\net5.0\Train.NTier.Business.AssemblyInfoInputs.cache
+D:\MyProjects\NEW\Train.NTier\Train.NTier.Business\obj\Debug\net5.0\Train.NTier.Business.AssemblyInfo.cs
+D:\MyProjects\NEW\Train.NTier\Train.NTier.Business\obj\Debug\net5.0\Train.NTier.Business.csproj.CoreCompileInputs.cache
 D:\MyProjects\NEW\Train.NTier\Train.NTier.Business\bin\Debug\net5.0\Train.NTier.Business.deps.json
 D:\MyProjects\NEW\Train.NTier\Train.NTier.Business\bin\Debug\net5.0\Train.NTier.Business.dll
 D:\MyProjects\NEW\Train.NTier\Train.NTier.Business\bin\Debug\net5.0\Train.NTier.Business.pdb
@@ -7,11 +12,6 @@ D:\MyProjects\NEW\Train.NTier\Train.NTier.Business\bin\Debug\net5.0\Train.NTier.
 D:\MyProjects\NEW\Train.NTier\Train.NTier.Business\bin\Debug\net5.0\Train.NTier.DataAccsess.pdb
 D:\MyProjects\NEW\Train.NTier\Train.NTier.Business\bin\Debug\net5.0\Train.NTier.DTOs.pdb
 D:\MyProjects\NEW\Train.NTier\Train.NTier.Business\bin\Debug\net5.0\Train.NTier.Entity.pdb
-D:\MyProjects\NEW\Train.NTier\Train.NTier.Business\obj\Debug\net5.0\Train.NTier.Business.csproj.AssemblyReference.cache
-D:\MyProjects\NEW\Train.NTier\Train.NTier.Business\obj\Debug\net5.0\Train.NTier.Business.GeneratedMSBuildEditorConfig.editorconfig
-D:\MyProjects\NEW\Train.NTier\Train.NTier.Business\obj\Debug\net5.0\Train.NTier.Business.AssemblyInfoInputs.cache
-D:\MyProjects\NEW\Train.NTier\Train.NTier.Business\obj\Debug\net5.0\Train.NTier.Business.AssemblyInfo.cs
-D:\MyProjects\NEW\Train.NTier\Train.NTier.Business\obj\Debug\net5.0\Train.NTier.Business.csproj.CoreCompileInputs.cache
 D:\MyProjects\NEW\Train.NTier\Train.NTier.Business\obj\Debug\net5.0\Train.NTier.Business.csproj.CopyComplete
 D:\MyProjects\NEW\Train.NTier\Train.NTier.Business\obj\Debug\net5.0\Train.NTier.Business.dll
 D:\MyProjects\NEW\Train.NTier\Train.NTier.Business\obj\Debug\net5.0\refint\Train.NTier.Business.dll

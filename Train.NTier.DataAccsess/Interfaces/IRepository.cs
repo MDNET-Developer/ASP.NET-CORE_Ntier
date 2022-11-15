@@ -15,5 +15,6 @@ namespace Train.NTier.DataAccsess.Interfaces
         Task Create(T entity);
         void Remove(T entity);
         void Update(T entity);
+        IQueryable<T> GetQuery();
     }
 }

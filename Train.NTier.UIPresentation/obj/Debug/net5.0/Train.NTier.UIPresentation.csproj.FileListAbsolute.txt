@@ -77,3 +77,8 @@ D:\MyProjects\NEW\Train.NTier\Train.NTier.UIPresentation\obj\Debug\net5.0\refint
 D:\MyProjects\NEW\Train.NTier\Train.NTier.UIPresentation\obj\Debug\net5.0\Train.NTier.UIPresentation.pdb
 D:\MyProjects\NEW\Train.NTier\Train.NTier.UIPresentation\obj\Debug\net5.0\Train.NTier.UIPresentation.genruntimeconfig.cache
 D:\MyProjects\NEW\Train.NTier\Train.NTier.UIPresentation\obj\Debug\net5.0\ref\Train.NTier.UIPresentation.dll
+D:\MyProjects\NEW\Train.NTier\Train.NTier.UIPresentation\obj\Debug\net5.0\staticwebassets\Train.NTier.UIPresentation.StaticWebAssets.Pack.cache
+D:\MyProjects\NEW\Train.NTier\Train.NTier.UIPresentation\obj\Debug\net5.0\staticwebassets\msbuild.Train.NTier.UIPresentation.Microsoft.AspNetCore.StaticWebAssets.props
+D:\MyProjects\NEW\Train.NTier\Train.NTier.UIPresentation\obj\Debug\net5.0\staticwebassets\msbuild.build.Train.NTier.UIPresentation.props
+D:\MyProjects\NEW\Train.NTier\Train.NTier.UIPresentation\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.Train.NTier.UIPresentation.props
+D:\MyProjects\NEW\Train.NTier\Train.NTier.UIPresentation\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.Train.NTier.UIPresentation.props

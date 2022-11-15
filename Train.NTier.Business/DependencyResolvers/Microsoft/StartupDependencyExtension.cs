@@ -5,7 +5,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Train.NTier.Business.Interfaces;
+using Train.NTier.Business.Services;
 using Train.NTier.DataAccsess.Context;
+using Train.NTier.DataAccsess.UnitOfWork;
 
 namespace Train.NTier.Business.DependencyResolvers.Microsoft
 {
@@ -17,6 +20,9 @@ namespace Train.NTier.Business.DependencyResolvers.Microsoft
             {
                 options.UseSqlServer("server=DESKTOP-LV07HAI;database=TrainNTierDb;integrated security=true");
             });
+            services.AddScoped<IUow, Uow>();
+            services.AddScoped<IWorkService, WorkService>();
         }
+        
     }
 }

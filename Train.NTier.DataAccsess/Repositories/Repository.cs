@@ -19,9 +19,9 @@ namespace Train.NTier.DataAccsess.Repositories
             _toDoContext = toDoContext;
         }
 
-        public Task Create(T entity)
+        public async Task Create(T entity)
         {
-            throw new NotImplementedException();
+            await _toDoContext.Set<T>().AddAsync(entity);
         }
 
         public async Task<List<T>> GetAll()
@@ -38,6 +38,11 @@ namespace Train.NTier.DataAccsess.Repositories
         public async Task<T> GetbyId(object id)
         {
             return await _toDoContext.Set<T>().FindAsync(id);
+        }
+
+        public IQueryable<T> GetQuery()
+        {
+            return _toDoContext.Set<T>().AsQueryable();
         }
 
         public void Remove(T entity)
